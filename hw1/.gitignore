@@ -1,0 +1,8 @@
+.mypy_cache/
+mypy_cache/
+.pytest_cache/
+.pytest_tmp/
+pytest-cache-files-*/
+__pycache__/
+recipes.db
+test_databases/
